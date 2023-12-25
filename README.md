@@ -1,3 +1,4 @@
+![Business Dashboard](Business%20Dashboard.png)
 # Sales Data Dashboard
 
 Welcome to my first Tableau dashboard project! I've learned and implemented the concepts from a YouTube video (https://www.youtube.com/watch?v=tNLp_JVipoQ&list=PLL4Xs3h2iGfxkvBsJWuuVUrYPRAwA3BEw&index=1), and this dashboard showcases the comparison of sales by country along with the top 10 sales by salesperson.
